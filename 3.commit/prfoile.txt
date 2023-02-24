@@ -1,2 +1,2 @@
-email :
-gitID :
+email : 8dpwls8@naver.com
+gitID : wive10
